@@ -90,6 +90,7 @@ IT, Italy
 JE, Jersey
 JM, Jamaica
 JO, Jordan
+JP, Japan
 KE, Kenya
 KG, Kyrgyzstan
 KH, Cambodia
